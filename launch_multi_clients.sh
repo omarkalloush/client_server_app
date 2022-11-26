@@ -1,5 +1,5 @@
 #!/bin/bash
-rate=200 # input 0.1, 1, 5, 10, 50, 100, 200  milliseconds
+rate=0.1 # input 0.1, 1, 5, 10, 50, 100, 200  milliseconds
 
 echo "" > "avg_transaction_complt_time_log.txt" # clean file
 
