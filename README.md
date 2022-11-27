@@ -60,8 +60,6 @@ Open third termial, run
 ./client
 ```
 
-This run the server with 2 clients, check out [v4_add_transaction_operations/server_log.txt](proj1_centralized_multiuser_bank/src/v4_add_transaction_operations/server_log.txt) of my print-out of server side.
-
 Below is the screenshot that shows Synchronization.
 ![](./docs/server_logs_synchronization_example.png)
 
