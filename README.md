@@ -69,8 +69,8 @@ Below is the screenshot that shows Synchronization.
 
 ### ***3.1 Transaction avg complete time (ms) over clients amount***
 
-|||||||||||
-|-|-|-|-|-|-|-|-|-|-|
+||||||
+|-|-|-|-|-|
 |Clients amount|1|5|10|15
 |Transaction avg complete time (ms)|0.0003|0.0006|0.00117143|0.00155455|
 ||
@@ -81,8 +81,8 @@ Below is the screenshot that shows Synchronization.
 
 ### **3.2 Transaction avg complete time (ms) over transaction rate (one transaction every rate milliseconds)**
 
-||||||||||
-|-|-|-|-|-|-|-|-|-|
+|||||||||
+|-|-|-|-|-|-|-|-|
 |rate|0.1|1|5|10|50|100|200|
 |Transaction avg complete time (ms)|0.00201|0.00165|0.00166|0.00188|0.0022|0.00292|0.00219|
 ||
